@@ -1,2 +1,3 @@
 # S2F
-clustering
+S2F: Border Peeling Clustering from Cluster Skeletons to Final Clusters. 
+
